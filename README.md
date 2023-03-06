@@ -107,6 +107,7 @@ You listen: we go in there, and that nigga Winston or anybody else is in there, 
 ### Stash
 ```
 updating readme after git stash
+used git stash -u to stash untracked files.
 ```
 ### CONTRIBUTE
 ```
