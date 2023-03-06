@@ -22,5 +22,6 @@ Developer Ipsum Quotes:
 A hacker on a roll may be able to produce–in a period of a few months–something 
 that a small development group (say, 8-9 people) would have a hard time getting together over a year.
 Programming is like sex. One mistake and you have to support it for the rest of your life. (Michael Sinz)
-Intel used to report that certain programmers
-might be as much as 100 times as productive as other workers, or more. (Peter Seebach)
+Intel used to report that certain programmers.
+There is no programming language–no matter how structured–
+that will prevent programmers from making bad programs. (Larry Flon)
