@@ -57,7 +57,8 @@ Pizzle tellus. Nulla nisi erizzle, fo shizzle mah nizzle fo rizzle, mah home g-d
 
 ### Pirate
 ```
-Shiver me timbers rum come about loot pinnace scuttle broadside draft Brethren of the Coast Letter of Marque.
+Shiver me timbers rum come about loot pinnace scuttle broadside draft
+Brethren of the Coast Letter of Marque.
 Draft provost lookout black spot grapple lass transom furl jack no prey, no pay.
 Knave bounty bilge water lad hornswaggle jury mast square-rigged barque hogshead pressgang.
 Jack salmagundi lugsail chase guns gun draught boatswain Jolly Roger splice the main brace hogshead.
@@ -65,8 +66,13 @@ Chase case shot cable scuttle draught reef sails quarter avast bucko jolly boat.
 Jack Tar pirate sloop topgallant loaded to the gunwalls Plate Fleet skysail reef sails maroon six pounders.
 Prow coxswain lee bounty hardtack league furl parrel crimp gaff.
 Pressgang fluke aft yo-ho-ho list loot Barbary Coast overhaul hempen halter gabion.
-Loaded to the gunwalls code of conduct quarter yawl deadlights cable Yellow Jack bring a spring upon her cable plunder driver.
-Man-of-war Corsair driver clap of thunder provost gun Sink me come about matey haul wind. 
+Loaded to the gunwalls code of conduct quarter yawl
+deadlights cable Yellow Jack bring a spring upon her cable plunder driver.
+Man-of-war Corsair driver clap of thunder provost gun Sink me come about matey haul wind.
+Shiver me timbers nipperkin barque smartly American Main.
+Starboard mizzen capstan Blimey heave down. Nelsons folly gaff American Main man-of-war handsomely.
+Cackle fruit killick quarterdeck pirate marooned.
+Jury mast Davy Jones' Locker landlubber or just lubber quarter cackle fruit. 
 ```
 ### Ryan Gosling
 ```
