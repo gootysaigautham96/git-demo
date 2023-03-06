@@ -24,4 +24,3 @@ that a small development group (say, 8-9 people) would have a hard time getting 
 Programming is like sex. One mistake and you have to support it for the rest of your life. (Michael Sinz)
 Intel used to report that certain programmers
 might be as much as 100 times as productive as other workers, or more. (Peter Seebach)
-
