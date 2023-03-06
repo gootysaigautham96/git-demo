@@ -25,3 +25,5 @@ Programming is like sex. One mistake and you have to support it for the rest of 
 Intel used to report that certain programmers.
 There are only two industries that refer to their customers as ‘users’. (Edward Tufte)
 Deleted code is debugged code. (Jeff Sickel)
+Come to think of it, there are already a million monkeys on a million typewriters,
+and Usenet is nothing like Shakespeare. (Blair Houghton)
