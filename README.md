@@ -68,4 +68,14 @@ Pressgang fluke aft yo-ho-ho list loot Barbary Coast overhaul hempen halter gabi
 Loaded to the gunwalls code of conduct quarter yawl deadlights cable Yellow Jack bring a spring upon her cable plunder driver.
 Man-of-war Corsair driver clap of thunder provost gun Sink me come about matey haul wind. 
 ```
-
+### Ryan Gosling
+```
+I think like a girl, I think. I wrote you 365 letters. 
+Then, telling Derek Cianfrance that I'd ever I could rob a bank I'd do it on my motorcycle, 
+and he said 'That's weird, I just wrote a script about that'.
+In most movies you spend so much time looking for any scraps of truth,
+and in this movie you're just marinating in it. Change moves in spirals, not circles.
+For example, the sun goes up and then it goes down.
+My character seems to think that he is, so he would define it.
+Anything happens in that five minutes, then I'm yours, no matter what. 
+```
