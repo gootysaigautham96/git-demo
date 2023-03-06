@@ -79,3 +79,8 @@ For example, the sun goes up and then it goes down.
 My character seems to think that he is, so he would define it.
 Anything happens in that five minutes, then I'm yours, no matter what. 
 ```
+
+### Copyright
+```
+2023 Git.Tutorial.
+```
