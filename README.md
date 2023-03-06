@@ -95,7 +95,7 @@ You listen: we go in there, and that nigga Winston or anybody else is in there, 
 
 ### Copyright
 ```
-2023 Git.Tutorial.
+2023 GSG.Git.Tutorial.All rights reserved.
 ```
 
 ### CONTRIBUTE
