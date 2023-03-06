@@ -15,3 +15,5 @@ that comes with it: the most popular gun in American crime. Like they're actuall
 developer ipsum
 Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, 
 it introduces security challenges, and it causes end-user and administrator frustration. (Ray Ozzie)
+
+adding a sentence before stashing untracked files.
