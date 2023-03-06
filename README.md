@@ -84,3 +84,8 @@ Anything happens in that five minutes, then I'm yours, no matter what.
 ```
 2023 Git.Tutorial.
 ```
+
+### CONTRIBUTE
+```
+Please fork this repository and then issue pull request for review.
+```
