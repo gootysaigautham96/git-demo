@@ -23,5 +23,5 @@ A hacker on a roll may be able to produce–in a period of a few months–someth
 that a small development group (say, 8-9 people) would have a hard time getting together over a year.
 Programming is like sex. One mistake and you have to support it for the rest of your life. (Michael Sinz)
 Intel used to report that certain programmers.
-There is no programming language–no matter how structured–
-that will prevent programmers from making bad programs. (Larry Flon)
+There are only two industries that refer to their customers as ‘users’. (Edward Tufte)
+Deleted code is debugged code. (Jeff Sickel)
