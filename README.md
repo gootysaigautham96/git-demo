@@ -114,3 +114,8 @@ updating README for multiple stash.
 ```
 Please fork this repository and then issue pull request for review.
 ```
+
+##### Resuming
+```
+Resuming course after long time
+```
